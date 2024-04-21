@@ -1,0 +1,6 @@
+qdrant-client
+fastapi
+uvicorn
+torch>=2.0
+sentence-transformers
+pinecone-text

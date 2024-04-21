@@ -1,0 +1,5 @@
+tqdm
+numpy
+qdrant-client
+pandas
+pyarrow

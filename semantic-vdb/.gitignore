@@ -1,0 +1,9 @@
+
+unique_tracks_with_lyrics_cleaned.csv
+lyrics-bert-embeddings.parquet.gzip
+lyrics-bert-embeddings-bm25.parquet.gzip
+/__pycache__
+dev_test.ipynb
+unique_tracks_final.csv
+node_modules
+.venv
